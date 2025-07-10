@@ -18,7 +18,7 @@ I love the entire process of developing creative websites. I love the challenge 
 <a href="https://github.com/dave-d-dev/dave-d-dev"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="David Ibekwe | Instagram" width="21px"/></a>
 <a href="https://github.com/dave-d-dev/dave-d-dev"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="David Ibekwe | Medium" width="21px"/></a>
 </br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me via<a href="mailto:dod.dobledd@gmail.com">Email!</a>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me via <a href="mailto:dod.dobledd@gmail.com">Email!</a>
 
 ## 🔭 I'm currently working on
 
